@@ -520,6 +520,9 @@ img {
     padding: 20px 0 10px;
     margin-bottom: 20px;
   }
+  .textLink {
+    display: none;
+  }
   .footer-header__logo,
   .footer-header-socialMedias {
     width: auto;
